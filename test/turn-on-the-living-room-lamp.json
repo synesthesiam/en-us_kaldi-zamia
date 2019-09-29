@@ -1,0 +1,16 @@
+{
+  "text": "turn on the living room lamp",
+  "intent": {
+    "name": "ChangeLightState"
+  },
+  "entities": [
+    {
+      "entity": "name",
+      "value": "living room lamp"
+    },
+    {
+      "entity": "state",
+      "value": "on"
+    }
+  ]
+}

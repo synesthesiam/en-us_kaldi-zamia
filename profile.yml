@@ -1,0 +1,15 @@
+language:
+  name: "english"
+  code: "en-us"
+
+speech-to-text:
+  kaldi:
+    model-type: "nnet3"
+
+training:
+  kaldi:
+    model-type: "nnet3"
+
+text-to-speech:
+  espeak:
+    voice: "en-us"

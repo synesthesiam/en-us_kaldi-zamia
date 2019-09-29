@@ -1,0 +1,31 @@
+bedroom bedroom b_B 'E_I d_I r_I u_I m_E
+blue blue b_B l_I 'u_E
+closed closed k_B l_I 'o_I U_I z_I d_E
+cold cold k_B 'o_I U_I l_I d_E
+door door d_B 'O_I r_E
+<eps> <eps> SIL
+garage garage g_B 3_I 'A_I Z_E
+green green g_B r_I 'i_I n_E
+hot hot h_B 'A_I t_E
+how how h_B 'aU_E
+is is 'I_B z_E
+it it 'I_B t_E
+lamp lamp l_B '{_I m_I p_E
+light light l_B 'aI_I t_E
+living living l_B 'I_I v_I I_I N_E
+make make m_B 'e_I I_I k_E
+me me m_B 'i_E
+off off 'O_B f_E
+on on 'A_B n_E
+open open 'o_B U_I p_I V_I n_E
+red red r_B 'E_I d_E
+room room r_B 'u_I m_E
+set set s_B 'E_I t_E
+tell tell t_B 'E_I l_E
+temperature temperature t_B 'E_I m_I p_I r_I V_I tS_I 3_E
+the the D_B V_E
+time time t_B 'aI_I m_E
+to to t_B 'u_E
+turn turn t_B '3_I n_E
+whats whats w_B V_I ts_E
+what what w_B 'V_I t_E
