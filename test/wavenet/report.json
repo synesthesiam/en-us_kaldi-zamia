@@ -10,7 +10,8 @@
     "transcription_accuracy": 1,
     "intent_accuracy": 1,
     "entity_accuracy": 1,
-    "intent_entity_accuracy": 1
+    "intent_entity_accuracy": 1,
+    "average_transcription_speedup": 3.546340421235428
   },
   "actual": {
     "turn_the_living_room_lamp_on.wav": {
@@ -62,9 +63,9 @@
         "state": "on"
       },
       "intents": [],
-      "recognize_seconds": 0.0010962486267089844,
+      "recognize_seconds": 0.0010917186737060547,
       "wav_seconds": 1.94125,
-      "transcribe_seconds": 0.499612,
+      "transcribe_seconds": 0.514182,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -122,9 +123,9 @@
         "state": "on"
       },
       "intents": [],
-      "recognize_seconds": 0.0008647441864013672,
+      "recognize_seconds": 0.0008721351623535156,
       "wav_seconds": 1.733437,
-      "transcribe_seconds": 0.471546,
+      "transcribe_seconds": 0.479592,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -180,9 +181,9 @@
         "color": "blue"
       },
       "intents": [],
-      "recognize_seconds": 0.0004985332489013672,
+      "recognize_seconds": 0.0005016326904296875,
       "wav_seconds": 1.568312,
-      "transcribe_seconds": 0.441623,
+      "transcribe_seconds": 0.439958,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -240,9 +241,9 @@
         "color": "green"
       },
       "intents": [],
-      "recognize_seconds": 0.0006105899810791016,
+      "recognize_seconds": 0.0006246566772460938,
       "wav_seconds": 1.765,
-      "transcribe_seconds": 0.467631,
+      "transcribe_seconds": 0.484,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -300,9 +301,9 @@
         "state": "off"
       },
       "intents": [],
-      "recognize_seconds": 0.0009801387786865234,
+      "recognize_seconds": 0.0009891986846923828,
       "wav_seconds": 1.927375,
-      "transcribe_seconds": 0.496548,
+      "transcribe_seconds": 0.494247,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -360,9 +361,9 @@
         "name": "living room lamp"
       },
       "intents": [],
-      "recognize_seconds": 0.0009961128234863281,
+      "recognize_seconds": 0.0009593963623046875,
       "wav_seconds": 1.789562,
-      "transcribe_seconds": 0.502597,
+      "transcribe_seconds": 0.535336,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -418,9 +419,9 @@
         "color": "red"
       },
       "intents": [],
-      "recognize_seconds": 0.0006082057952880859,
+      "recognize_seconds": 0.000640869140625,
       "wav_seconds": 1.531187,
-      "transcribe_seconds": 0.447928,
+      "transcribe_seconds": 0.443336,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -478,9 +479,9 @@
         "color": "red"
       },
       "intents": [],
-      "recognize_seconds": 0.0004961490631103516,
+      "recognize_seconds": 0.0007834434509277344,
       "wav_seconds": 1.670625,
-      "transcribe_seconds": 0.470778,
+      "transcribe_seconds": 0.476858,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -540,9 +541,9 @@
         "name": "living room lamp"
       },
       "intents": [],
-      "recognize_seconds": 0.0009026527404785156,
+      "recognize_seconds": 0.0009007453918457031,
       "wav_seconds": 1.865438,
-      "transcribe_seconds": 0.46809,
+      "transcribe_seconds": 0.485857,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -598,9 +599,9 @@
         "state": "off"
       },
       "intents": [],
-      "recognize_seconds": 0.0010089874267578125,
+      "recognize_seconds": 0.0009686946868896484,
       "wav_seconds": 1.621312,
-      "transcribe_seconds": 0.446434,
+      "transcribe_seconds": 0.448634,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -658,9 +659,9 @@
         "name": "bedroom light"
       },
       "intents": [],
-      "recognize_seconds": 0.0009813308715820312,
+      "recognize_seconds": 0.0009288787841796875,
       "wav_seconds": 1.646688,
-      "transcribe_seconds": 0.452613,
+      "transcribe_seconds": 0.456213,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -718,9 +719,9 @@
         "state": "on"
       },
       "intents": [],
-      "recognize_seconds": 0.0008633136749267578,
+      "recognize_seconds": 0.0009233951568603516,
       "wav_seconds": 1.779688,
-      "transcribe_seconds": 0.464123,
+      "transcribe_seconds": 0.472962,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -778,9 +779,9 @@
         "color": "green"
       },
       "intents": [],
-      "recognize_seconds": 0.0005877017974853516,
+      "recognize_seconds": 0.0005950927734375,
       "wav_seconds": 1.862688,
-      "transcribe_seconds": 0.465475,
+      "transcribe_seconds": 0.472783,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -840,9 +841,9 @@
         "color": "red"
       },
       "intents": [],
-      "recognize_seconds": 0.0006060600280761719,
+      "recognize_seconds": 0.0006177425384521484,
       "wav_seconds": 1.818312,
-      "transcribe_seconds": 0.465099,
+      "transcribe_seconds": 0.484463,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -898,9 +899,9 @@
         "name": "garage light"
       },
       "intents": [],
-      "recognize_seconds": 0.0008649826049804688,
+      "recognize_seconds": 0.0009284019470214844,
       "wav_seconds": 1.547,
-      "transcribe_seconds": 0.445417,
+      "transcribe_seconds": 0.463695,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -932,9 +933,9 @@
       ],
       "slots": {},
       "intents": [],
-      "recognize_seconds": 0.0003542900085449219,
+      "recognize_seconds": 0.0003566741943359375,
       "wav_seconds": 1.298125,
-      "transcribe_seconds": 0.411704,
+      "transcribe_seconds": 0.419929,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -990,9 +991,9 @@
         "name": "bedroom light"
       },
       "intents": [],
-      "recognize_seconds": 0.0009260177612304688,
+      "recognize_seconds": 0.000934600830078125,
       "wav_seconds": 1.459437,
-      "transcribe_seconds": 0.413428,
+      "transcribe_seconds": 0.424822,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -1052,9 +1053,9 @@
         "color": "blue"
       },
       "intents": [],
-      "recognize_seconds": 0.0006153583526611328,
+      "recognize_seconds": 0.0007045269012451172,
       "wav_seconds": 1.880187,
-      "transcribe_seconds": 0.464113,
+      "transcribe_seconds": 0.476037,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -1112,9 +1113,9 @@
         "state": "on"
       },
       "intents": [],
-      "recognize_seconds": 0.000985860824584961,
+      "recognize_seconds": 0.000965118408203125,
       "wav_seconds": 1.890688,
-      "transcribe_seconds": 0.466974,
+      "transcribe_seconds": 0.475196,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -1170,9 +1171,9 @@
         "state": "on"
       },
       "intents": [],
-      "recognize_seconds": 0.0009217262268066406,
+      "recognize_seconds": 0.0010411739349365234,
       "wav_seconds": 1.606562,
-      "transcribe_seconds": 0.436269,
+      "transcribe_seconds": 0.463146,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -1230,9 +1231,9 @@
         "color": "red"
       },
       "intents": [],
-      "recognize_seconds": 0.0006060600280761719,
+      "recognize_seconds": 0.0005941390991210938,
       "wav_seconds": 1.79925,
-      "transcribe_seconds": 0.477228,
+      "transcribe_seconds": 0.492006,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -1266,9 +1267,9 @@
       ],
       "slots": {},
       "intents": [],
-      "recognize_seconds": 0.00036334991455078125,
+      "recognize_seconds": 0.00035858154296875,
       "wav_seconds": 1.103813,
-      "transcribe_seconds": 0.393857,
+      "transcribe_seconds": 0.393495,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -1326,9 +1327,9 @@
         "name": "garage light"
       },
       "intents": [],
-      "recognize_seconds": 0.0008628368377685547,
+      "recognize_seconds": 0.0011641979217529297,
       "wav_seconds": 1.735688,
-      "transcribe_seconds": 0.477093,
+      "transcribe_seconds": 0.515985,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -1386,9 +1387,9 @@
         "color": "blue"
       },
       "intents": [],
-      "recognize_seconds": 0.0006148815155029297,
+      "recognize_seconds": 0.0007779598236083984,
       "wav_seconds": 1.790437,
-      "transcribe_seconds": 0.467638,
+      "transcribe_seconds": 0.482635,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -1444,9 +1445,9 @@
         "state": "on"
       },
       "intents": [],
-      "recognize_seconds": 0.0009264945983886719,
+      "recognize_seconds": 0.0009410381317138672,
       "wav_seconds": 1.565687,
-      "transcribe_seconds": 0.438694,
+      "transcribe_seconds": 0.455077,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -1502,9 +1503,9 @@
         "state": "off"
       },
       "intents": [],
-      "recognize_seconds": 0.0009210109710693359,
+      "recognize_seconds": 0.0009360313415527344,
       "wav_seconds": 1.568437,
-      "transcribe_seconds": 0.443406,
+      "transcribe_seconds": 0.449529,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -1538,9 +1539,9 @@
       ],
       "slots": {},
       "intents": [],
-      "recognize_seconds": 0.00035881996154785156,
+      "recognize_seconds": 0.00035643577575683594,
       "wav_seconds": 1.02975,
-      "transcribe_seconds": 0.360241,
+      "transcribe_seconds": 0.365888,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -1598,9 +1599,9 @@
         "name": "garage light"
       },
       "intents": [],
-      "recognize_seconds": 0.0009722709655761719,
+      "recognize_seconds": 0.0009381771087646484,
       "wav_seconds": 1.692375,
-      "transcribe_seconds": 0.439657,
+      "transcribe_seconds": 0.453602,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -1656,9 +1657,9 @@
         "color": "green"
       },
       "intents": [],
-      "recognize_seconds": 0.0006079673767089844,
+      "recognize_seconds": 0.0006113052368164062,
       "wav_seconds": 1.560312,
-      "transcribe_seconds": 0.44167,
+      "transcribe_seconds": 0.470526,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -1716,9 +1717,9 @@
         "color": "blue"
       },
       "intents": [],
-      "recognize_seconds": 0.0005025863647460938,
+      "recognize_seconds": 0.0005130767822265625,
       "wav_seconds": 1.767937,
-      "transcribe_seconds": 0.467929,
+      "transcribe_seconds": 0.475347,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -1776,9 +1777,9 @@
         "name": "bedroom light"
       },
       "intents": [],
-      "recognize_seconds": 0.0008757114410400391,
+      "recognize_seconds": 0.0009877681732177734,
       "wav_seconds": 1.690313,
-      "transcribe_seconds": 0.43942,
+      "transcribe_seconds": 0.471406,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -1834,9 +1835,9 @@
         "name": "garage light"
       },
       "intents": [],
-      "recognize_seconds": 0.0009303092956542969,
+      "recognize_seconds": 0.0009331703186035156,
       "wav_seconds": 1.503688,
-      "transcribe_seconds": 0.439612,
+      "transcribe_seconds": 0.44485,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -1896,9 +1897,9 @@
         "color": "green"
       },
       "intents": [],
-      "recognize_seconds": 0.0006160736083984375,
+      "recognize_seconds": 0.0006055831909179688,
       "wav_seconds": 1.875188,
-      "transcribe_seconds": 0.463247,
+      "transcribe_seconds": 0.47648,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -1956,9 +1957,9 @@
         "name": "living room lamp"
       },
       "intents": [],
-      "recognize_seconds": 0.0008776187896728516,
+      "recognize_seconds": 0.0009047985076904297,
       "wav_seconds": 1.804437,
-      "transcribe_seconds": 0.465789,
+      "transcribe_seconds": 0.488794,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -2016,9 +2017,9 @@
         "color": "blue"
       },
       "intents": [],
-      "recognize_seconds": 0.0005805492401123047,
+      "recognize_seconds": 0.0005967617034912109,
       "wav_seconds": 1.844125,
-      "transcribe_seconds": 0.46529,
+      "transcribe_seconds": 0.470322,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -2052,9 +2053,9 @@
       ],
       "slots": {},
       "intents": [],
-      "recognize_seconds": 0.00036144256591796875,
+      "recognize_seconds": 0.00035309791564941406,
       "wav_seconds": 1.047875,
-      "transcribe_seconds": 0.360289,
+      "transcribe_seconds": 0.364456,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -2112,9 +2113,9 @@
         "color": "red"
       },
       "intents": [],
-      "recognize_seconds": 0.0006096363067626953,
+      "recognize_seconds": 0.00061798095703125,
       "wav_seconds": 1.714938,
-      "transcribe_seconds": 0.466723,
+      "transcribe_seconds": 0.469428,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -2174,9 +2175,9 @@
         "name": "living room lamp"
       },
       "intents": [],
-      "recognize_seconds": 0.0009531974792480469,
+      "recognize_seconds": 0.0009672641754150391,
       "wav_seconds": 1.850188,
-      "transcribe_seconds": 0.469339,
+      "transcribe_seconds": 0.478448,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -2232,9 +2233,9 @@
         "name": "bedroom light"
       },
       "intents": [],
-      "recognize_seconds": 0.0015316009521484375,
+      "recognize_seconds": 0.0008766651153564453,
       "wav_seconds": 1.470875,
-      "transcribe_seconds": 0.413317,
+      "transcribe_seconds": 0.420552,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -2268,9 +2269,9 @@
       ],
       "slots": {},
       "intents": [],
-      "recognize_seconds": 0.0003924369812011719,
+      "recognize_seconds": 0.00035953521728515625,
       "wav_seconds": 1.083063,
-      "transcribe_seconds": 0.401704,
+      "transcribe_seconds": 0.391713,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -2328,9 +2329,9 @@
         "state": "off"
       },
       "intents": [],
-      "recognize_seconds": 0.0008871555328369141,
+      "recognize_seconds": 0.0011048316955566406,
       "wav_seconds": 1.768312,
-      "transcribe_seconds": 0.464977,
+      "transcribe_seconds": 0.481555,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -2386,9 +2387,9 @@
         "color": "red"
       },
       "intents": [],
-      "recognize_seconds": 0.0005054473876953125,
+      "recognize_seconds": 0.0005087852478027344,
       "wav_seconds": 1.5045,
-      "transcribe_seconds": 0.438499,
+      "transcribe_seconds": 0.459363,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -2448,9 +2449,9 @@
         "state": "off"
       },
       "intents": [],
-      "recognize_seconds": 0.0008895397186279297,
+      "recognize_seconds": 0.0009062290191650391,
       "wav_seconds": 1.948687,
-      "transcribe_seconds": 0.49186,
+      "transcribe_seconds": 0.507324,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -2506,9 +2507,9 @@
         "color": "blue"
       },
       "intents": [],
-      "recognize_seconds": 0.0006144046783447266,
+      "recognize_seconds": 0.0007791519165039062,
       "wav_seconds": 1.58225,
-      "transcribe_seconds": 0.437827,
+      "transcribe_seconds": 0.513902,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -2566,9 +2567,9 @@
         "state": "off"
       },
       "intents": [],
-      "recognize_seconds": 0.0008707046508789062,
+      "recognize_seconds": 0.0009315013885498047,
       "wav_seconds": 1.730063,
-      "transcribe_seconds": 0.464866,
+      "transcribe_seconds": 0.478656,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -2624,9 +2625,9 @@
         "color": "green"
       },
       "intents": [],
-      "recognize_seconds": 0.00049591064453125,
+      "recognize_seconds": 0.0005156993865966797,
       "wav_seconds": 1.548062,
-      "transcribe_seconds": 0.442981,
+      "transcribe_seconds": 0.47598,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -2662,9 +2663,9 @@
       ],
       "slots": {},
       "intents": [],
-      "recognize_seconds": 0.00036525726318359375,
+      "recognize_seconds": 0.00044536590576171875,
       "wav_seconds": 1.803,
-      "transcribe_seconds": 0.468219,
+      "transcribe_seconds": 0.478352,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -2722,9 +2723,9 @@
         "color": "green"
       },
       "intents": [],
-      "recognize_seconds": 0.0005011558532714844,
+      "recognize_seconds": 0.0005035400390625,
       "wav_seconds": 1.750188,
-      "transcribe_seconds": 0.502892,
+      "transcribe_seconds": 0.490577,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {
@@ -2760,9 +2761,9 @@
       ],
       "slots": {},
       "intents": [],
-      "recognize_seconds": 0.00037407875061035156,
+      "recognize_seconds": 0.00036978721618652344,
       "wav_seconds": 1.967125,
-      "transcribe_seconds": 0.493561,
+      "transcribe_seconds": 0.504114,
       "wrong_entities": [],
       "missing_entities": [],
       "word_error": {

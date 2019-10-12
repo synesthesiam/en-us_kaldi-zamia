@@ -9,13 +9,23 @@
     "correct_entities": 0,
     "transcription_accuracy": 0.9611650485436893,
     "intent_accuracy": 1,
-    "entity_accuracy": 1
+    "entity_accuracy": 1,
+    "intent_entity_accuracy": 1,
+    "average_transcription_speedup": 4.141757075148455
   },
   "actual": {
     "en-0539.wav": {
       "text": "the format inception document this week for signature",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 0.00045299530029296875,
       "wav_seconds": 5.5,
-      "transcribe_seconds": 1.370796,
+      "transcribe_seconds": 1.328499,
       "word_error": {
         "expected": "the format inception document this week for signature",
         "actual": "the format inception document this week for signature",
@@ -26,8 +36,16 @@
     },
     "ar-04.wav": {
       "text": "he would always shirk making a choice his aunt helen said to him",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 0.0004153251647949219,
       "wav_seconds": 5.875,
-      "transcribe_seconds": 1.665695,
+      "transcribe_seconds": 1.383434,
       "word_error": {
         "expected": "he  would always shirk making a   choice his aunt helen said to  him",
         "actual": "he  would always shirk making a   choice his aunt helen said to  him",
@@ -38,8 +56,16 @@
     },
     "en-0541.wav": {
       "text": "nevertheless indicated she might be inching towards some controls",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 3.838539123535156e-05,
       "wav_seconds": 5.875,
-      "transcribe_seconds": 1.325544,
+      "transcribe_seconds": 1.37491,
       "word_error": {
         "expected": "nevertheless indicated she might be  inching TOWARD  some controls",
         "actual": "nevertheless indicated she might be  inching TOWARDS some controls",
@@ -50,8 +76,16 @@
     },
     "ar-07.wav": {
       "text": "one rainy day the rats heard a great noise in the loft",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 0.0002722740173339844,
       "wav_seconds": 5.375,
-      "transcribe_seconds": 1.308525,
+      "transcribe_seconds": 1.234212,
       "word_error": {
         "expected": "one rainy day the rats heard a   great noise in  the loft",
         "actual": "one rainy day the rats heard a   great noise in  the loft",
@@ -62,8 +96,16 @@
     },
     "ar-06.wav": {
       "text": "you have no more mind than a blade of grass",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 3.743171691894531e-05,
       "wav_seconds": 4.5,
-      "transcribe_seconds": 1.143519,
+      "transcribe_seconds": 1.10556,
       "word_error": {
         "expected": "you have no  more mind than a   blade of  grass",
         "actual": "you have no  more mind than a   blade of  grass",
@@ -74,8 +116,16 @@
     },
     "en-0535.wav": {
       "text": "so that he is in with children from a variety of cultural backgrounds",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 0.00026726722717285156,
       "wav_seconds": 6,
-      "transcribe_seconds": 1.475833,
+      "transcribe_seconds": 1.470414,
       "word_error": {
         "expected": "so  that he  is  in  with children from a   variety of  cultural backgrounds",
         "actual": "so  that he  is  in  with children from a   variety of  cultural backgrounds",
@@ -86,8 +136,16 @@
     },
     "en-0532.wav": {
       "text": "this will be discussed with industry",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 3.337860107421875e-05,
       "wav_seconds": 4.625,
-      "transcribe_seconds": 1.097922,
+      "transcribe_seconds": 1.123518,
       "word_error": {
         "expected": "this will be  discussed with industry",
         "actual": "this will be  discussed with industry",
@@ -98,8 +156,16 @@
     },
     "rp-29.wav": {
       "text": "since red and green light when mixed form yellow",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 0.0002677440643310547,
       "wav_seconds": 5.125,
-      "transcribe_seconds": 1.166359,
+      "transcribe_seconds": 1.19957,
       "word_error": {
         "expected": "since red and green light when mixed form yellow",
         "actual": "since red and green light when mixed form yellow",
@@ -110,8 +176,16 @@
     },
     "en-0536.wav": {
       "text": "attached please find the spreadsheet",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 0.0002777576446533203,
       "wav_seconds": 4,
-      "transcribe_seconds": 1.31171,
+      "transcribe_seconds": 1.203129,
       "word_error": {
         "expected": "attached please find the spreadsheet",
         "actual": "attached please find the spreadsheet",
@@ -122,8 +196,16 @@
     },
     "rp-31.wav": {
       "text": "with little or no green or blue",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 0.00041985511779785156,
       "wav_seconds": 4.125,
-      "transcribe_seconds": 1.271498,
+      "transcribe_seconds": 1.049252,
       "word_error": {
         "expected": "with little or  no  green or  blue",
         "actual": "with little or  no  green or  blue",
@@ -134,8 +216,16 @@
     },
     "rp-30.wav": {
       "text": "this is a very common type of bow one showing mainly red and yellow",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 0.000278472900390625,
       "wav_seconds": 6.375,
-      "transcribe_seconds": 1.597271,
+      "transcribe_seconds": 1.363153,
       "word_error": {
         "expected": "this is  a   very common type of  bow one showing mainly red and yellow",
         "actual": "this is  a   very common type of  bow one showing mainly red and yellow",
@@ -146,8 +236,16 @@
     },
     "en-0533.wav": {
       "text": "through a series of informal out which sessions over the next few months",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 0.00026869773864746094,
       "wav_seconds": 6.875,
-      "transcribe_seconds": 1.980348,
+      "transcribe_seconds": 1.563169,
       "word_error": {
         "expected": "through a   series of  informal *** OUTREACH sessions over the next few months",
         "actual": "through a   series of  informal OUT WHICH    sessions over the next few months",
@@ -158,8 +256,16 @@
     },
     "en-0534.wav": {
       "text": "here the classes are told her mad merging",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 0.0002608299255371094,
       "wav_seconds": 4.25,
-      "transcribe_seconds": 1.43761,
+      "transcribe_seconds": 1.342261,
       "word_error": {
         "expected": "here the classes are ***  *** TOTAL IMMERSION",
         "actual": "here the classes are TOLD HER MAD   MERGING",
@@ -170,8 +276,16 @@
     },
     "en-0540.wav": {
       "text": "the commissioner who has not come out in favour of price caps",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 0.0002772808074951172,
       "wav_seconds": 5.5,
-      "transcribe_seconds": 1.58044,
+      "transcribe_seconds": 1.297867,
       "word_error": {
         "expected": "the commissioner who has not come out in  FAVOR  of  price caps",
         "actual": "the commissioner who has not come out in  FAVOUR of  price caps",
@@ -182,8 +296,16 @@
     },
     "ar-05.wav": {
       "text": "now look here no one is going to care for you if you carry on like this",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 0.00027871131896972656,
       "wav_seconds": 6.625,
-      "transcribe_seconds": 1.505092,
+      "transcribe_seconds": 1.376525,
       "word_error": {
         "expected": "now look here no  one is  going to  care for you if  you carry on  like this",
         "actual": "now look here no  one is  going to  care for you if  you carry on  like this",
@@ -194,8 +316,16 @@
     },
     "en-0537.wav": {
       "text": "containing the above with reference to information",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 0.0003025531768798828,
       "wav_seconds": 4.625,
-      "transcribe_seconds": 1.326392,
+      "transcribe_seconds": 1.341266,
       "word_error": {
         "expected": "containing the above ***  ***       REFERENCED information",
         "actual": "containing the above WITH REFERENCE TO         information",
@@ -206,8 +336,16 @@
     },
     "ar-02.wav": {
       "text": "whenever his friends ask him if he would like to go with them",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 0.0002827644348144531,
       "wav_seconds": 5.375,
-      "transcribe_seconds": 1.259004,
+      "transcribe_seconds": 1.254194,
       "word_error": {
         "expected": "whenever his friends ASKED him if  he  would like to  go  OUT with them",
         "actual": "whenever his friends ASK   him if  he  would like to  go  *** with them",
@@ -218,8 +356,16 @@
     },
     "ar-03.wav": {
       "text": "he would only answer i don't know he wouldn't say yes or no either",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 5.14984130859375e-05,
       "wav_seconds": 6.5,
-      "transcribe_seconds": 1.449697,
+      "transcribe_seconds": 1.392844,
       "word_error": {
         "expected": "he  would only answer i   don't know he  wouldn't say yes or  no  either",
         "actual": "he  would only answer i   don't know he  wouldn't say yes or  no  either",
@@ -230,8 +376,16 @@
     },
     "en-0538.wav": {
       "text": "please could we pull together",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 3.123283386230469e-05,
       "wav_seconds": 3.5,
-      "transcribe_seconds": 1.055357,
+      "transcribe_seconds": 0.930088,
       "word_error": {
         "expected": "please could we  pull together",
         "actual": "please could we  pull together",
@@ -242,8 +396,16 @@
     },
     "ar-01.wav": {
       "text": "once there was a young rat named arthur who never could make up his mind",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 0.00029206275939941406,
       "wav_seconds": 6.25,
-      "transcribe_seconds": 1.455084,
+      "transcribe_seconds": 1.367796,
       "word_error": {
         "expected": "once there was a   young rat named arthur who never could make up  his mind",
         "actual": "once there was a   young rat named arthur who never could make up  his mind",
