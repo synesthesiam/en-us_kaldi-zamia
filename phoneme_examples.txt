@@ -1,54 +1,41 @@
-'3 bird b '3 d
-'A aren 'A r V n
-'E amen e I m 'E n
-'I been b 'I n
-'O also 'O l s o U
-'OI boys b 'OI z
-'U book b 'U k
-'V butt b 'V t
-'aI bike b 'aI k
-'aU down d 'aU n
-'e able 'e I b V l
-'i beat b 'i t
-'o blow b l 'o U
-'u blue b l 'u
-'{ adam '{ d V m
-3 ever 'E v 3
-A africa '{ f r V k A
-D than D '{ n
-E enjoy E n dZ 'OI
-I ages 'e I dZ V z
-N bang b '{ N
-O airport 'E r p O r t
-S bush b 'U S
-T bath b '{ T
-U boat b 'o U t
-V alan '{ l V n
-Z usual j 'u Z V w V l
-aI idea aI d 'i V
-aU however h aU 'E v 3
-b babe b 'e I b
-d andy '{ n d i
-dZ edge 'E dZ
-e always 'O l w e I z
-f face f 'e I s
-g bags b '{ g z
-h hadn h '{ d V n
-i anti '{ n t i
-j cute k j 'u t
-k alex '{ l V k s
-l ball b 'O l
-m arms 'A r m z
-n anna '{ n V
-o hero h 'I r o U
-p camp k '{ m p
-r area 'E r i V
-s asks '{ s k s
-t aunt '{ n t
-tS each 'i tS
-ts arts 'A r ts
-u into 'I n t u
-v dave d 'e I v
-w away V w 'e I
-z busy b 'I z i
-{ accept { k s 'E p t
+3 bird b 3 d
+A arts A r ts
+D than D { n
+E bear b E r
+I ages e I dZ V z
+N bang b { N
+O also O l s o U
+OI boys b OI z
+S bush b U S
+T bath b { T
+U boat b o U t
+V able e I b V l
+Z usual j u Z V w V l
+aI bike b aI k
+aU down d aU n
+b babe b e I b
+d andy { n d i
+dZ edge E dZ
+e amen e I m E n
+f face f e I s
+g bags b { g z
+h hadn h { d V n
+i area E r i V
+j cute k j u t
+k back b { k
+l alex { l V k s
+m army A r m i
+n alan { l V n
+o blow b l o U
+p camp k { m p
+pf pfft pf t
+r aren A r V n
+s asks { s k s
+t anti { n t i
+tS each i tS
+ts gets g E ts
+u blue b l u
+v dave d e I v
+w away V w e I
+z arms A r m z
+{ adam { d V m
