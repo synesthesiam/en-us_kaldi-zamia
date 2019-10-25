@@ -21,3 +21,5 @@ training:
 text-to-speech:
   espeak:
     voice: "en-us"
+  marytts:
+    voice: "cmu-slt-hsmm"
