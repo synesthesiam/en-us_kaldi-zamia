@@ -9,6 +9,7 @@ speech-to-text:
 
 training:
   acoustic-model-type: "kaldi"
+  word-casing: "lower"
   kaldi:
     model-type: "nnet3"
   large-files:
