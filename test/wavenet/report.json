@@ -2431,7 +2431,7 @@
       ],
       "text": "turn living room lamp off",
       "raw_text": "turn living room lamp off",
-      "recognize_seconds": 0.0005958269975963049,
+      "recognize_seconds": 0.0009411149985680822,
       "tokens": [
         "turn",
         "living",
@@ -2447,7 +2447,7 @@
         "off"
       ],
       "wav_seconds": 1.927375,
-      "transcribe_seconds": 0.5867829490016447,
+      "transcribe_seconds": 0.614316780000081,
       "speech_confidence": null,
       "wav_name": "turn_living_room_lamp_off.wav",
       "expected_intent_name": "ChangeLightState",
@@ -2517,7 +2517,7 @@
       ],
       "text": "make bedroom light green",
       "raw_text": "make bedroom light green",
-      "recognize_seconds": 0.0005426399984571617,
+      "recognize_seconds": 0.00037286700171534903,
       "tokens": [
         "make",
         "bedroom",
@@ -2531,7 +2531,7 @@
         "green"
       ],
       "wav_seconds": 1.5480625,
-      "transcribe_seconds": 0.5755328109989932,
+      "transcribe_seconds": 0.5903274649972445,
       "speech_confidence": null,
       "wav_name": "make_bedroom_light_green.wav",
       "expected_intent_name": "ChangeLightColor",
@@ -2598,7 +2598,7 @@
       ],
       "text": "turn off the bedroom light",
       "raw_text": "turn off the bedroom light",
-      "recognize_seconds": 0.0008983070001704618,
+      "recognize_seconds": 0.0007711520011071116,
       "tokens": [
         "turn",
         "off",
@@ -2614,7 +2614,7 @@
         "light"
       ],
       "wav_seconds": 1.6903125,
-      "transcribe_seconds": 0.6700018900010036,
+      "transcribe_seconds": 0.6340779470010602,
       "speech_confidence": null,
       "wav_name": "turn_off_the_bedroom_light.wav",
       "expected_intent_name": "ChangeLightState",
@@ -2684,7 +2684,7 @@
       ],
       "text": "set bedroom light blue",
       "raw_text": "set bedroom light blue",
-      "recognize_seconds": 0.0006345980000332929,
+      "recognize_seconds": 0.0004145250022702385,
       "tokens": [
         "set",
         "bedroom",
@@ -2698,7 +2698,7 @@
         "blue"
       ],
       "wav_seconds": 1.58225,
-      "transcribe_seconds": 0.6805861220018414,
+      "transcribe_seconds": 0.5736538669989386,
       "speech_confidence": null,
       "wav_name": "set_bedroom_light_blue.wav",
       "expected_intent_name": "ChangeLightColor",
@@ -2765,7 +2765,7 @@
       ],
       "text": "turn the living room lamp on",
       "raw_text": "turn the living room lamp on",
-      "recognize_seconds": 0.0008839949987304863,
+      "recognize_seconds": 0.0007563700019090902,
       "tokens": [
         "turn",
         "the",
@@ -2783,7 +2783,7 @@
         "on"
       ],
       "wav_seconds": 1.94125,
-      "transcribe_seconds": 0.621278236998478,
+      "transcribe_seconds": 0.6119022860002588,
       "speech_confidence": null,
       "wav_name": "turn_the_living_room_lamp_on.wav",
       "expected_intent_name": "ChangeLightState",
@@ -2856,7 +2856,7 @@
       ],
       "text": "turn on garage light",
       "raw_text": "turn on garage light",
-      "recognize_seconds": 0.0005483490022015758,
+      "recognize_seconds": 0.0006381679995683953,
       "tokens": [
         "turn",
         "on",
@@ -2870,7 +2870,7 @@
         "light"
       ],
       "wav_seconds": 1.5036875,
-      "transcribe_seconds": 0.5993372339980851,
+      "transcribe_seconds": 0.6004322219996538,
       "speech_confidence": null,
       "wav_name": "turn_on_garage_light.wav",
       "expected_intent_name": "ChangeLightState",
@@ -2937,7 +2937,7 @@
       ],
       "text": "turn on bedroom light",
       "raw_text": "turn on bedroom light",
-      "recognize_seconds": 0.0006890539989399258,
+      "recognize_seconds": 0.0005146119983692188,
       "tokens": [
         "turn",
         "on",
@@ -2951,7 +2951,7 @@
         "light"
       ],
       "wav_seconds": 1.4594375,
-      "transcribe_seconds": 0.596835665000981,
+      "transcribe_seconds": 0.6112122560007265,
       "speech_confidence": null,
       "wav_name": "turn_on_bedroom_light.wav",
       "expected_intent_name": "ChangeLightState",
@@ -3018,7 +3018,7 @@
       ],
       "text": "set the bedroom light green",
       "raw_text": "set the bedroom light green",
-      "recognize_seconds": 0.0005962809991615359,
+      "recognize_seconds": 0.0005778449994977564,
       "tokens": [
         "set",
         "the",
@@ -3034,7 +3034,7 @@
         "green"
       ],
       "wav_seconds": 1.765,
-      "transcribe_seconds": 0.6082118970007286,
+      "transcribe_seconds": 0.5908183060018928,
       "speech_confidence": null,
       "wav_name": "set_the_bedroom_light_green.wav",
       "expected_intent_name": "ChangeLightColor",
@@ -3079,7 +3079,7 @@
       "entities": [],
       "text": "tell me the time",
       "raw_text": "tell me the time",
-      "recognize_seconds": 0.0003109300014330074,
+      "recognize_seconds": 0.0006830620004620869,
       "tokens": [
         "tell",
         "me",
@@ -3093,7 +3093,7 @@
         "time"
       ],
       "wav_seconds": 1.0830625,
-      "transcribe_seconds": 0.6146396170006483,
+      "transcribe_seconds": 0.5689437870023539,
       "speech_confidence": null,
       "wav_name": "tell_me_the_time.wav",
       "expected_intent_name": "GetTime",
@@ -3160,7 +3160,7 @@
       ],
       "text": "turn on living room lamp",
       "raw_text": "turn on living room lamp",
-      "recognize_seconds": 0.0011758000000554603,
+      "recognize_seconds": 0.0005861380013811868,
       "tokens": [
         "turn",
         "on",
@@ -3176,7 +3176,7 @@
         "lamp"
       ],
       "wav_seconds": 1.7895625,
-      "transcribe_seconds": 0.627033307999227,
+      "transcribe_seconds": 0.6198757780002779,
       "speech_confidence": null,
       "wav_name": "turn_on_living_room_lamp.wav",
       "expected_intent_name": "ChangeLightState",
@@ -3246,7 +3246,7 @@
       ],
       "text": "turn off the living room lamp",
       "raw_text": "turn off the living room lamp",
-      "recognize_seconds": 0.0009365750011056662,
+      "recognize_seconds": 0.0008904349997465033,
       "tokens": [
         "turn",
         "off",
@@ -3264,7 +3264,7 @@
         "lamp"
       ],
       "wav_seconds": 1.8654375,
-      "transcribe_seconds": 0.634558626999933,
+      "transcribe_seconds": 0.6985912990021461,
       "speech_confidence": null,
       "wav_name": "turn_off_the_living_room_lamp.wav",
       "expected_intent_name": "ChangeLightState",
@@ -3337,7 +3337,7 @@
       ],
       "text": "make bedroom light blue",
       "raw_text": "make bedroom light blue",
-      "recognize_seconds": 0.00037074799911351874,
+      "recognize_seconds": 0.0004096410011698026,
       "tokens": [
         "make",
         "bedroom",
@@ -3351,7 +3351,7 @@
         "blue"
       ],
       "wav_seconds": 1.5683125,
-      "transcribe_seconds": 0.6125469090002298,
+      "transcribe_seconds": 0.5883387129979383,
       "speech_confidence": null,
       "wav_name": "make_bedroom_light_blue.wav",
       "expected_intent_name": "ChangeLightColor",
@@ -3418,7 +3418,7 @@
       ],
       "text": "turn off living room lamp",
       "raw_text": "turn off living room lamp",
-      "recognize_seconds": 0.0006690120026178192,
+      "recognize_seconds": 0.0005954480002401397,
       "tokens": [
         "turn",
         "off",
@@ -3434,7 +3434,7 @@
         "lamp"
       ],
       "wav_seconds": 1.8044375,
-      "transcribe_seconds": 0.664232439998159,
+      "transcribe_seconds": 0.6789303779987677,
       "speech_confidence": null,
       "wav_name": "turn_off_living_room_lamp.wav",
       "expected_intent_name": "ChangeLightState",
@@ -3504,7 +3504,7 @@
       ],
       "text": "set the bedroom light to red",
       "raw_text": "set the bedroom light to red",
-      "recognize_seconds": 0.0011870439993799664,
+      "recognize_seconds": 0.0009562470004311763,
       "tokens": [
         "set",
         "the",
@@ -3522,7 +3522,7 @@
         "red"
       ],
       "wav_seconds": 1.8183125,
-      "transcribe_seconds": 0.5730513550006435,
+      "transcribe_seconds": 0.7056528710018029,
       "speech_confidence": null,
       "wav_name": "set_the_bedroom_light_to_red.wav",
       "expected_intent_name": "ChangeLightColor",
@@ -3595,7 +3595,7 @@
       ],
       "text": "turn the bedroom light off",
       "raw_text": "turn the bedroom light off",
-      "recognize_seconds": 0.0006363770007737912,
+      "recognize_seconds": 0.0007848509994801134,
       "tokens": [
         "turn",
         "the",
@@ -3611,7 +3611,7 @@
         "off"
       ],
       "wav_seconds": 1.7300625,
-      "transcribe_seconds": 0.6130362529984268,
+      "transcribe_seconds": 0.6604540289990837,
       "speech_confidence": null,
       "wav_name": "turn_the_bedroom_light_off.wav",
       "expected_intent_name": "ChangeLightState",
@@ -3681,7 +3681,7 @@
       ],
       "text": "set bedroom light to blue",
       "raw_text": "set bedroom light to blue",
-      "recognize_seconds": 0.00047830900075496174,
+      "recognize_seconds": 0.0005179020008654334,
       "tokens": [
         "set",
         "bedroom",
@@ -3697,7 +3697,7 @@
         "blue"
       ],
       "wav_seconds": 1.844125,
-      "transcribe_seconds": 0.6146714060014347,
+      "transcribe_seconds": 0.6702873180001916,
       "speech_confidence": null,
       "wav_name": "set_bedroom_light_to_blue.wav",
       "expected_intent_name": "ChangeLightColor",
@@ -3767,7 +3767,7 @@
       ],
       "text": "set the bedroom light to green",
       "raw_text": "set the bedroom light to green",
-      "recognize_seconds": 0.0007393390005745459,
+      "recognize_seconds": 0.0006509039994853083,
       "tokens": [
         "set",
         "the",
@@ -3785,7 +3785,7 @@
         "green"
       ],
       "wav_seconds": 1.8751875,
-      "transcribe_seconds": 0.6184193000008236,
+      "transcribe_seconds": 0.6984207179993973,
       "speech_confidence": null,
       "wav_name": "set_the_bedroom_light_to_green.wav",
       "expected_intent_name": "ChangeLightColor",
@@ -3833,7 +3833,7 @@
       "entities": [],
       "text": "is the garage door closed",
       "raw_text": "is the garage door closed",
-      "recognize_seconds": 0.0008376149999094196,
+      "recognize_seconds": 0.0003239959987695329,
       "tokens": [
         "is",
         "the",
@@ -3849,7 +3849,7 @@
         "closed"
       ],
       "wav_seconds": 1.967125,
-      "transcribe_seconds": 0.6125113849993795,
+      "transcribe_seconds": 0.6961892740000621,
       "speech_confidence": null,
       "wav_name": "is_the_garage_door_closed.wav",
       "expected_intent_name": "GetGarageState",
@@ -3919,7 +3919,7 @@
       ],
       "text": "set the bedroom light blue",
       "raw_text": "set the bedroom light blue",
-      "recognize_seconds": 0.0006277989996306133,
+      "recognize_seconds": 0.0005622089993266854,
       "tokens": [
         "set",
         "the",
@@ -3935,7 +3935,7 @@
         "blue"
       ],
       "wav_seconds": 1.7904375,
-      "transcribe_seconds": 0.6231842239976686,
+      "transcribe_seconds": 0.6328703149993089,
       "speech_confidence": null,
       "wav_name": "set_the_bedroom_light_blue.wav",
       "expected_intent_name": "ChangeLightColor",
@@ -4005,7 +4005,7 @@
       ],
       "text": "turn off garage light",
       "raw_text": "turn off garage light",
-      "recognize_seconds": 0.0006211159998201765,
+      "recognize_seconds": 0.0006128400018496905,
       "tokens": [
         "turn",
         "off",
@@ -4019,7 +4019,7 @@
         "light"
       ],
       "wav_seconds": 1.547,
-      "transcribe_seconds": 0.59495932000209,
+      "transcribe_seconds": 0.634541008999804,
       "speech_confidence": null,
       "wav_name": "turn_off_garage_light.wav",
       "expected_intent_name": "ChangeLightState",
@@ -4086,7 +4086,7 @@
       ],
       "text": "set the bedroom light red",
       "raw_text": "set the bedroom light red",
-      "recognize_seconds": 0.0006210510000528302,
+      "recognize_seconds": 0.0005213280019233935,
       "tokens": [
         "set",
         "the",
@@ -4102,7 +4102,7 @@
         "red"
       ],
       "wav_seconds": 1.7149375,
-      "transcribe_seconds": 0.571107847001258,
+      "transcribe_seconds": 0.6174785690018325,
       "speech_confidence": null,
       "wav_name": "set_the_bedroom_light_red.wav",
       "expected_intent_name": "ChangeLightColor",
@@ -4172,7 +4172,7 @@
       ],
       "text": "turn on the living room lamp",
       "raw_text": "turn on the living room lamp",
-      "recognize_seconds": 0.0008228500009863637,
+      "recognize_seconds": 0.000990239997918252,
       "tokens": [
         "turn",
         "on",
@@ -4190,7 +4190,7 @@
         "lamp"
       ],
       "wav_seconds": 1.8501875,
-      "transcribe_seconds": 0.6244835450015671,
+      "transcribe_seconds": 0.6377279100015585,
       "speech_confidence": null,
       "wav_name": "turn_on_the_living_room_lamp.wav",
       "expected_intent_name": "ChangeLightState",
@@ -4263,7 +4263,7 @@
       ],
       "text": "set bedroom light red",
       "raw_text": "set bedroom light red",
-      "recognize_seconds": 0.0004474629968171939,
+      "recognize_seconds": 0.00040943299973150715,
       "tokens": [
         "set",
         "bedroom",
@@ -4277,7 +4277,7 @@
         "red"
       ],
       "wav_seconds": 1.5311875,
-      "transcribe_seconds": 0.5981167930003721,
+      "transcribe_seconds": 0.6176601440020022,
       "speech_confidence": null,
       "wav_name": "set_bedroom_light_red.wav",
       "expected_intent_name": "ChangeLightColor",
@@ -4344,7 +4344,7 @@
       ],
       "text": "turn garage light off",
       "raw_text": "turn garage light off",
-      "recognize_seconds": 0.0006169519983814098,
+      "recognize_seconds": 0.000602446001721546,
       "tokens": [
         "turn",
         "garage",
@@ -4358,7 +4358,7 @@
         "off"
       ],
       "wav_seconds": 1.6213125,
-      "transcribe_seconds": 0.5943307599991385,
+      "transcribe_seconds": 0.6962849980009196,
       "speech_confidence": null,
       "wav_name": "turn_garage_light_off.wav",
       "expected_intent_name": "ChangeLightState",
@@ -4425,7 +4425,7 @@
       ],
       "text": "turn off bedroom light",
       "raw_text": "turn off bedroom light",
-      "recognize_seconds": 0.0005958969995845109,
+      "recognize_seconds": 0.0009580789992469363,
       "tokens": [
         "turn",
         "off",
@@ -4439,7 +4439,7 @@
         "light"
       ],
       "wav_seconds": 1.470875,
-      "transcribe_seconds": 0.6177136090009299,
+      "transcribe_seconds": 0.9052506619991618,
       "speech_confidence": null,
       "wav_name": "turn_off_bedroom_light.wav",
       "expected_intent_name": "ChangeLightState",
@@ -4506,7 +4506,7 @@
       ],
       "text": "turn the garage light on",
       "raw_text": "turn the garage light on",
-      "recognize_seconds": 0.0010553089996392373,
+      "recognize_seconds": 0.0007263710031111259,
       "tokens": [
         "turn",
         "the",
@@ -4522,7 +4522,7 @@
         "on"
       ],
       "wav_seconds": 1.7796875,
-      "transcribe_seconds": 0.6414047409998602,
+      "transcribe_seconds": 0.759519952996925,
       "speech_confidence": null,
       "wav_name": "turn_the_garage_light_on.wav",
       "expected_intent_name": "ChangeLightState",
@@ -4592,7 +4592,7 @@
       ],
       "text": "turn on the garage light",
       "raw_text": "turn on the garage light",
-      "recognize_seconds": 0.0008386980007344391,
+      "recognize_seconds": 0.0008550749989808537,
       "tokens": [
         "turn",
         "on",
@@ -4608,7 +4608,7 @@
         "light"
       ],
       "wav_seconds": 1.692375,
-      "transcribe_seconds": 0.6275530729981256,
+      "transcribe_seconds": 0.6751060890019289,
       "speech_confidence": null,
       "wav_name": "turn_on_the_garage_light.wav",
       "expected_intent_name": "ChangeLightState",
@@ -4678,7 +4678,7 @@
       ],
       "text": "turn the garage light off",
       "raw_text": "turn the garage light off",
-      "recognize_seconds": 0.0007051769971440081,
+      "recognize_seconds": 0.0013355880000744946,
       "tokens": [
         "turn",
         "the",
@@ -4694,7 +4694,7 @@
         "off"
       ],
       "wav_seconds": 1.7683125,
-      "transcribe_seconds": 0.6178812840007595,
+      "transcribe_seconds": 0.6230883469979744,
       "speech_confidence": null,
       "wav_name": "turn_the_garage_light_off.wav",
       "expected_intent_name": "ChangeLightState",
@@ -4764,7 +4764,7 @@
       ],
       "text": "turn bedroom light off",
       "raw_text": "turn bedroom light off",
-      "recognize_seconds": 0.0008337779981957283,
+      "recognize_seconds": 0.0005378449968702625,
       "tokens": [
         "turn",
         "bedroom",
@@ -4778,7 +4778,7 @@
         "off"
       ],
       "wav_seconds": 1.5684375,
-      "transcribe_seconds": 0.6071385769973858,
+      "transcribe_seconds": 0.5382423570008541,
       "speech_confidence": null,
       "wav_name": "turn_bedroom_light_off.wav",
       "expected_intent_name": "ChangeLightState",
@@ -4820,7 +4820,7 @@
       "entities": [],
       "text": "whats the temperature",
       "raw_text": "whats the temperature",
-      "recognize_seconds": 0.0002791250008158386,
+      "recognize_seconds": 0.00035458600177662447,
       "tokens": [
         "whats",
         "the",
@@ -4832,7 +4832,7 @@
         "temperature"
       ],
       "wav_seconds": 1.298125,
-      "transcribe_seconds": 0.5712875539975357,
+      "transcribe_seconds": 0.6971692130027805,
       "speech_confidence": null,
       "wav_name": "whats_the_temperature.wav",
       "expected_intent_name": "GetTemperature",
@@ -4896,7 +4896,7 @@
       ],
       "text": "set bedroom light to green",
       "raw_text": "set bedroom light to green",
-      "recognize_seconds": 0.0008538850015611388,
+      "recognize_seconds": 0.0005046170008426998,
       "tokens": [
         "set",
         "bedroom",
@@ -4912,7 +4912,7 @@
         "green"
       ],
       "wav_seconds": 1.8626875,
-      "transcribe_seconds": 0.650927310998668,
+      "transcribe_seconds": 0.6087015789998986,
       "speech_confidence": null,
       "wav_name": "set_bedroom_light_to_green.wav",
       "expected_intent_name": "ChangeLightColor",
@@ -4957,7 +4957,7 @@
       "entities": [],
       "text": "is the garage door open",
       "raw_text": "is the garage door open",
-      "recognize_seconds": 0.00028569100322783925,
+      "recognize_seconds": 0.000370009001926519,
       "tokens": [
         "is",
         "the",
@@ -4973,7 +4973,7 @@
         "open"
       ],
       "wav_seconds": 1.803,
-      "transcribe_seconds": 0.61381740899742,
+      "transcribe_seconds": 0.5489354980018106,
       "speech_confidence": null,
       "wav_name": "is_the_garage_door_open.wav",
       "expected_intent_name": "GetGarageState",
@@ -5043,7 +5043,7 @@
       ],
       "text": "make the bedroom light red",
       "raw_text": "make the bedroom light red",
-      "recognize_seconds": 0.0007465970011253376,
+      "recognize_seconds": 0.0006009339995216578,
       "tokens": [
         "make",
         "the",
@@ -5059,7 +5059,7 @@
         "red"
       ],
       "wav_seconds": 1.670625,
-      "transcribe_seconds": 0.5934093820033013,
+      "transcribe_seconds": 0.5659293970020371,
       "speech_confidence": null,
       "wav_name": "make_the_bedroom_light_red.wav",
       "expected_intent_name": "ChangeLightColor",
@@ -5129,7 +5129,7 @@
       ],
       "text": "turn the living room lamp off",
       "raw_text": "turn the living room lamp off",
-      "recognize_seconds": 0.0010260080016450956,
+      "recognize_seconds": 0.001252789003046928,
       "tokens": [
         "turn",
         "the",
@@ -5147,7 +5147,7 @@
         "off"
       ],
       "wav_seconds": 1.9486875,
-      "transcribe_seconds": 0.6125851240030897,
+      "transcribe_seconds": 0.6447063910018187,
       "speech_confidence": null,
       "wav_name": "turn_the_living_room_lamp_off.wav",
       "expected_intent_name": "ChangeLightState",
@@ -5220,7 +5220,7 @@
       ],
       "text": "set bedroom light green",
       "raw_text": "set bedroom light green",
-      "recognize_seconds": 0.0005895949980185833,
+      "recognize_seconds": 0.0004231290004099719,
       "tokens": [
         "set",
         "bedroom",
@@ -5234,7 +5234,7 @@
         "green"
       ],
       "wav_seconds": 1.5603125,
-      "transcribe_seconds": 0.584587321998697,
+      "transcribe_seconds": 0.6044170150016726,
       "speech_confidence": null,
       "wav_name": "set_bedroom_light_green.wav",
       "expected_intent_name": "ChangeLightColor",
@@ -5301,7 +5301,7 @@
       ],
       "text": "make the bedroom light green",
       "raw_text": "make the bedroom light green",
-      "recognize_seconds": 0.0006544819989358075,
+      "recognize_seconds": 0.0005635749985231087,
       "tokens": [
         "make",
         "the",
@@ -5317,7 +5317,7 @@
         "green"
       ],
       "wav_seconds": 1.7501875,
-      "transcribe_seconds": 0.647200431998499,
+      "transcribe_seconds": 0.6324760319985216,
       "speech_confidence": null,
       "wav_name": "make_the_bedroom_light_green.wav",
       "expected_intent_name": "ChangeLightColor",
@@ -5362,7 +5362,7 @@
       "entities": [],
       "text": "how hot is it",
       "raw_text": "how hot is it",
-      "recognize_seconds": 0.0003133179998258129,
+      "recognize_seconds": 0.00032741100221755914,
       "tokens": [
         "how",
         "hot",
@@ -5376,7 +5376,7 @@
         "it"
       ],
       "wav_seconds": 1.02975,
-      "transcribe_seconds": 0.7118029000012029,
+      "transcribe_seconds": 0.8686278530003619,
       "speech_confidence": null,
       "wav_name": "how_hot_is_it.wav",
       "expected_intent_name": "GetTemperature",
@@ -5443,7 +5443,7 @@
       ],
       "text": "turn off the garage light",
       "raw_text": "turn off the garage light",
-      "recognize_seconds": 0.0008259909991465975,
+      "recognize_seconds": 0.0011733909996110015,
       "tokens": [
         "turn",
         "off",
@@ -5459,7 +5459,7 @@
         "light"
       ],
       "wav_seconds": 1.7356875,
-      "transcribe_seconds": 0.6836809819978953,
+      "transcribe_seconds": 0.9010323039983632,
       "speech_confidence": null,
       "wav_name": "turn_off_the_garage_light.wav",
       "expected_intent_name": "ChangeLightState",
@@ -5529,7 +5529,7 @@
       ],
       "text": "turn bedroom light on",
       "raw_text": "turn bedroom light on",
-      "recognize_seconds": 0.0005785849971289281,
+      "recognize_seconds": 0.0005160350010555703,
       "tokens": [
         "turn",
         "bedroom",
@@ -5543,7 +5543,7 @@
         "on"
       ],
       "wav_seconds": 1.5656875,
-      "transcribe_seconds": 0.6597884650000196,
+      "transcribe_seconds": 0.7377969489971292,
       "speech_confidence": null,
       "wav_name": "turn_bedroom_light_on.wav",
       "expected_intent_name": "ChangeLightState",
@@ -5610,7 +5610,7 @@
       ],
       "text": "turn on the bedroom light",
       "raw_text": "turn on the bedroom light",
-      "recognize_seconds": 0.0012866799988842104,
+      "recognize_seconds": 0.001563625999551732,
       "tokens": [
         "turn",
         "on",
@@ -5626,7 +5626,7 @@
         "light"
       ],
       "wav_seconds": 1.6466875,
-      "transcribe_seconds": 0.6525257710018195,
+      "transcribe_seconds": 0.7114207439990423,
       "speech_confidence": null,
       "wav_name": "turn_on_the_bedroom_light.wav",
       "expected_intent_name": "ChangeLightState",
@@ -5671,7 +5671,7 @@
       "entities": [],
       "text": "how cold is it",
       "raw_text": "how cold is it",
-      "recognize_seconds": 0.0003071629980695434,
+      "recognize_seconds": 0.00034877500002039596,
       "tokens": [
         "how",
         "cold",
@@ -5685,7 +5685,7 @@
         "it"
       ],
       "wav_seconds": 1.1038125,
-      "transcribe_seconds": 0.6410878300011973,
+      "transcribe_seconds": 0.6603092410005047,
       "speech_confidence": null,
       "wav_name": "how_cold_is_it.wav",
       "expected_intent_name": "GetTemperature",
@@ -5752,7 +5752,7 @@
       ],
       "text": "turn the bedroom light on",
       "raw_text": "turn the bedroom light on",
-      "recognize_seconds": 0.0007690070015087258,
+      "recognize_seconds": 0.0007034769987512846,
       "tokens": [
         "turn",
         "the",
@@ -5768,7 +5768,7 @@
         "on"
       ],
       "wav_seconds": 1.7334375,
-      "transcribe_seconds": 0.6923501640012546,
+      "transcribe_seconds": 0.5870250059997488,
       "speech_confidence": null,
       "wav_name": "turn_the_bedroom_light_on.wav",
       "expected_intent_name": "ChangeLightState",
@@ -5838,7 +5838,7 @@
       ],
       "text": "make bedroom light red",
       "raw_text": "make bedroom light red",
-      "recognize_seconds": 0.0005941239978710655,
+      "recognize_seconds": 0.0003662649978650734,
       "tokens": [
         "make",
         "bedroom",
@@ -5852,7 +5852,7 @@
         "red"
       ],
       "wav_seconds": 1.5045,
-      "transcribe_seconds": 0.6257478829975298,
+      "transcribe_seconds": 0.6279859740025131,
       "speech_confidence": null,
       "wav_name": "make_bedroom_light_red.wav",
       "expected_intent_name": "ChangeLightColor",
@@ -5919,7 +5919,7 @@
       ],
       "text": "turn living room lamp on",
       "raw_text": "turn living room lamp on",
-      "recognize_seconds": 0.0005385900003602728,
+      "recognize_seconds": 0.0006294800004980061,
       "tokens": [
         "turn",
         "living",
@@ -5935,7 +5935,7 @@
         "on"
       ],
       "wav_seconds": 1.8906875,
-      "transcribe_seconds": 0.6098241129984672,
+      "transcribe_seconds": 0.6047976340014429,
       "speech_confidence": null,
       "wav_name": "turn_living_room_lamp_on.wav",
       "expected_intent_name": "ChangeLightState",
@@ -6005,7 +6005,7 @@
       ],
       "text": "make the bedroom light blue",
       "raw_text": "make the bedroom light blue",
-      "recognize_seconds": 0.0014006260025780648,
+      "recognize_seconds": 0.0013537400009226985,
       "tokens": [
         "make",
         "the",
@@ -6021,7 +6021,7 @@
         "blue"
       ],
       "wav_seconds": 1.7679375,
-      "transcribe_seconds": 0.6056455860016285,
+      "transcribe_seconds": 0.5988933859989629,
       "speech_confidence": null,
       "wav_name": "make_the_bedroom_light_blue.wav",
       "expected_intent_name": "ChangeLightColor",
@@ -6091,7 +6091,7 @@
       ],
       "text": "set the bedroom light to blue",
       "raw_text": "set the bedroom light to blue",
-      "recognize_seconds": 0.0006350639996526297,
+      "recognize_seconds": 0.000745359000575263,
       "tokens": [
         "set",
         "the",
@@ -6109,7 +6109,7 @@
         "blue"
       ],
       "wav_seconds": 1.8801875,
-      "transcribe_seconds": 0.6135900870031037,
+      "transcribe_seconds": 0.5830573120001645,
       "speech_confidence": null,
       "wav_name": "set_the_bedroom_light_to_blue.wav",
       "expected_intent_name": "ChangeLightColor",
@@ -6182,7 +6182,7 @@
       ],
       "text": "set bedroom light to red",
       "raw_text": "set bedroom light to red",
-      "recognize_seconds": 0.00026367900136392564,
+      "recognize_seconds": 0.0004936109980917536,
       "tokens": [
         "set",
         "bedroom",
@@ -6198,7 +6198,7 @@
         "red"
       ],
       "wav_seconds": 1.79925,
-      "transcribe_seconds": 0.5930226320015208,
+      "transcribe_seconds": 0.5761329900014971,
       "speech_confidence": null,
       "wav_name": "set_bedroom_light_to_red.wav",
       "expected_intent_name": "ChangeLightColor",
@@ -6268,7 +6268,7 @@
       ],
       "text": "turn garage light on",
       "raw_text": "turn garage light on",
-      "recognize_seconds": 0.0005572909976763185,
+      "recognize_seconds": 0.00028225299683981575,
       "tokens": [
         "turn",
         "garage",
@@ -6282,7 +6282,7 @@
         "on"
       ],
       "wav_seconds": 1.6065625,
-      "transcribe_seconds": 0.589415596001345,
+      "transcribe_seconds": 0.5280977490001533,
       "speech_confidence": null,
       "wav_name": "turn_garage_light_on.wav",
       "expected_intent_name": "ChangeLightState",
@@ -6324,7 +6324,7 @@
       "entities": [],
       "text": "what time is it",
       "raw_text": "what time is it",
-      "recognize_seconds": 0.00015100699965842068,
+      "recognize_seconds": 0.00015176799934124574,
       "tokens": [
         "what",
         "time",
@@ -6338,7 +6338,7 @@
         "it"
       ],
       "wav_seconds": 1.047875,
-      "transcribe_seconds": 0.14053529599914327,
+      "transcribe_seconds": 0.13592789899848867,
       "speech_confidence": null,
       "wav_name": "what_time_is_it.wav",
       "expected_intent_name": "GetTime",
@@ -6386,5 +6386,5 @@
   "intent_accuracy": 1,
   "entity_accuracy": 1,
   "intent_entity_accuracy": 1,
-  "average_transcription_speedup": 2.799017885833245
+  "average_transcription_speedup": 2.7292638847472688
 }
