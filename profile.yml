@@ -1,3 +1,6 @@
+name: "en-us_kaldi-zamia"
+version: "1.1"
+
 language:
   name: "english"
   code: "en-us"

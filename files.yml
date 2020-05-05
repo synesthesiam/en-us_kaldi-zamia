@@ -1,5 +1,8 @@
 ---
 default:
+  LICENSE:
+    bytes: 7651
+    sha256: da7eabb7bafdf7d3ae5e9f223aa5bdc1eece45ac569dc21b3b037520b4464768
   acoustic_model/conf/mfcc.conf:
     bytes: 44
     sha256: 3ecadc6f8685df278bff3a8ddca0296368f39000010c66a2dda1eb82f8ab4a1d
@@ -90,18 +93,23 @@ default:
   acoustic_model/model/graph/HCLG.fst.gz.part-00:
     bytes: 26214400
     sha256: 89f5d15d5017811b0ded31c709177274729617162a61c7a9ee19087d28a90934
+    file-name: "HCLG.fst"
   acoustic_model/model/graph/HCLG.fst.gz.part-01:
     bytes: 26214400
     sha256: c93c39352282be7465a878b81ed2e0c09e92c765df88e97c6ab0f0f2812c456a
+    file-name: "HCLG.fst"
   acoustic_model/model/graph/HCLG.fst.gz.part-02:
     bytes: 26214400
     sha256: b0ceaaee94e74722f07e403d86ee42d3ea07f2e6014161b3d297901528e2842f
+    file-name: "HCLG.fst"
   acoustic_model/model/graph/HCLG.fst.gz.part-03:
     bytes: 26214400
     sha256: 08326183e870a4d1f441a62861bbca6c42c38eda08358443d0626c138d1e6c70
+    file-name: "HCLG.fst"
   acoustic_model/model/graph/HCLG.fst.gz.part-04:
     bytes: 19128114
     sha256: dc4b7ebd9a246f6ee681207b1ab61d689ff0236caa98e4d7dfd1bd0c1977d1df
+    file-name: "HCLG.fst"
   acoustic_model/model/graph/num_pdfs:
     bytes: 5
     sha256: 79630c34fc641236f14e681ffc4896d8cbe57e88aabb1c7351927a6ff8635349
@@ -162,6 +170,10 @@ default:
   base_dictionary.txt.gz:
     bytes: 1089197
     sha256: 6a4c11bb0775e659bf4b2c7bf24ba309842ed00ce7bdfd28a282cb77f9b4e8d1
+    file-name: "base_dictionary.txt"
+  profile.yml:
+    bytes: 674
+    sha256: 4a3aedf4ef8da12d4e559673401c7486608640dbe99039707ec7af632bca5c42
   stop_words.txt:
     bytes: 530
     sha256: c70d3a9220951c0d80c3bc83e751618a7384308162e52544f786b3406547d00b
@@ -171,18 +183,21 @@ grapheme-to-phoneme:
   g2p.fst.gz:
     bytes: 16209041
     sha256: dd0b5caa6bef0e70ba113e116cd2f451adebd9d966137f1b23ff6ee56174a16a
+    file-name: "g2p.fst"
 
 # Files needed for open transcription (pre-built model)
 open-transcription:
   base_language_model.txt.gz:
     bytes: 21364794
     sha256: 79d7e80a1ac1dc86578e46c6a1edd9514a84932c4a05c184d50b958f05ddb017
+    file-name: "base_language_model.txt"
 
 # Files needed for mixed language modeling (pre-built + custom)
 mixed-language-model:
   base_language_model.fst.gz:
     bytes: 37267066
     sha256: 8e016f27d7c55a4759a0b0e7031b96ee2cbc74a6b6f33138a15950281937e886
+    file-name: "base_language_model.fst"
 
 # Files needed for text to speech
 text-to-speech:
@@ -195,3 +210,9 @@ text-to-speech:
   marytts/voice-cmu-slt-hsmm-5.2.jar:
     bytes: 1242746
     sha256: d012c43f109c60dba106741ce1c18a6caf4bb1476d7af8861ceaab4c655294cb
+
+# Sample sentences, etc.
+examples:
+  sentences.ini:
+    bytes: 538
+    sha256: 839b4f949ab5248401920bf4290e8f13a479f17f37626cb5306d4db5d76faf6c
