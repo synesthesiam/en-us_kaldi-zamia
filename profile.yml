@@ -1,6 +1,6 @@
 ---
 name: "en-us_kaldi-zamia"
-version: "2.0"
+version: "2.1"
 
 language:
   name: "english"
@@ -21,6 +21,7 @@ training:
     - !env "${profile_dir}/base_language_model.txt"
     - !env "${profile_dir}/base_language_model.fst"
     - !env "${profile_dir}/g2p.fst"
+    - !env "${profile_dir}/g2p.corpus"
     - !env "${profile_dir}/acoustic_model/model/final.mdl"
     - !env "${profile_dir}/acoustic_model/model/graph/HCLG.fst"
 
